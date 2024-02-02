@@ -1,0 +1,17 @@
+{
+    "name": "filemanager",
+    "version": "1.0.0",
+    "description": "node.js course task2",
+    "engines": {
+      "node": ">=20.0.0"
+    },
+    "type": "module",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "hasanhozbakir",
+    "license": "ISC"
+  }
+  
+  
