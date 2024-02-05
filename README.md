@@ -6,6 +6,9 @@
 ```bash
 npm run start -- --username=your_username
 ```
+```bash
+node app -- --username=user
+```
 - or just
 ```bash
 npm run start
