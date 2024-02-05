@@ -21,7 +21,7 @@ npm run start
     ```bash
     ls
     ```
-    ![ls output example](./ls.PNG)  
+    ![ls output example](./ls.png)  
 - (basic) 
     ```bash
     add new_file_name
