@@ -5,7 +5,7 @@ import { getHomeDir } from "./homedir.js";
 import { getUsername } from "./username.js";
 
 export const os = async ([...args]) => {
-  if (args.length === 0) return console.log("Invalid input");
+  if (args.length !== 1) return console.log("Invalid input");
   switch (args[0].slice(2)) {
     case "EOL":
       return getEOL();
